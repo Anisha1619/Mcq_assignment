@@ -1,0 +1,144 @@
+.buttons {
+    margin-left: 680px;
+    margin-top: 30px;
+}
+
+
+.prev-button {
+    padding: 10px;
+    margin: 10px;
+    margin-top: 40px;
+    height: 30px;
+    margin-right: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    background-color: white;
+}
+.next-button {
+    padding: 10px;
+    margin: 10px;
+    margin-top: 40px;
+    height: 30px;
+    margin-right: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.submit-button {
+    padding: 10px;
+    margin: 10px;
+    margin-top: 40px;
+    height: 30px;
+    margin-right: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    
+}
+
+.input {
+   
+    padding-left: 700px;
+    
+}
+.answers{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.options {
+   width: 300px;
+   height: 50px;
+   padding: 10px;
+   margin: 10px;
+   display: flex;
+   justify-content: flex-start;
+   
+}
+.container {
+    display: flex;
+    margin-left: 650px;
+    justify-content: flex-start;
+}
+
+.index-number {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    /* float: right;
+    margin-right: 50px; */
+
+}
+
+
+
+.contain {
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.text {
+    width: 300px;
+    height: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.genders {
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.languages {
+    padding-top: 10px;
+    margin-top: 10px;
+    
+}
+.btns {
+    margin: 10px;
+    background-color: blueviolet; 
+    width: 110px;
+    height: 30px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 70px;
+
+    
+}
+.questions {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.btn-index{
+    font-size: 20px;
+    color:white;
+    background-color:blueviolet ;
+    padding: 15px;
+   
+    
+}
+.Report-Table{
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    margin: 50px;
+    
+}
